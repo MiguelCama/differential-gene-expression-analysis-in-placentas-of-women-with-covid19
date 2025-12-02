@@ -1,4 +1,4 @@
-Differential Gene Expression Analysis in Placentas from COVID-19–Positive Pregnancies
+## Differential Gene Expression Analysis in Placentas from COVID-19–Positive Pregnancies
 
 This repository contains all scripts used to perform a full RNA-seq pipeline for differential gene expression analysis in placental samples from pregnant women infected with SARS-CoV-2 compared with healthy controls.
 COVID-19 is not only a respiratory condition but also a vascular disease capable of causing significant inflammation and circulatory impairment. During pregnancy, SARS-CoV-2 infection may alter placental physiology and influence fetal development. In this study, we analyzed placental transcriptomes and identified distinct gene-expression patterns between infected and control groups, suggesting potential placental dysfunction associated with COVID-19. These results highlight the importance of transcriptomics for understanding pregnancy-related alterations linked to viral infection.
