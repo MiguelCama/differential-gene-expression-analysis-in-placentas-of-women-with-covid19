@@ -3,7 +3,7 @@
 This repository contains all scripts used to perform a full RNA-seq pipeline for differential gene expression analysis in placental samples from pregnant women infected with SARS-CoV-2 compared with healthy controls.
 COVID-19 is not only a respiratory condition but also a vascular disease capable of causing significant inflammation and circulatory impairment. During pregnancy, SARS-CoV-2 infection may alter placental physiology and influence fetal development. In this study, we analyzed placental transcriptomes and identified distinct gene-expression patterns between infected and control groups, suggesting potential placental dysfunction associated with COVID-19. These results highlight the importance of transcriptomics for understanding pregnancy-related alterations linked to viral infection.
 
-📁 Repository Structure
+### 📁 Repository Structure
 This project includes scripts for quality control, preprocessing, alignment, quantification, and downstream differential expression and functional analysis.
 1. Preprocessing & Quality Control
   00a_downloadAndDecompress.sh – Download and decompress raw data
@@ -40,7 +40,7 @@ This project includes scripts for quality control, preprocessing, alignment, qua
   DESeq2.R – Differential gene expression analysis
   GO.R – Gene Ontology enrichment
 
-🚀 Requirements
+### 🚀 Requirements
 Depending on pipeline components:
   Linux environment
   R (DESeq2, tidyverse, clusterProfiler, etc.)
@@ -49,6 +49,8 @@ Depending on pipeline components:
 
 Standard bioinformatics tools in $PATH
 
-🎯 Purpose
+### 🎯 Purpose
+
+This repository ensures full reproducibility of our transcriptomic analysis and supports research on how SARS-CoV-2 infection may impact placental biology and pregnancy outcomes.
 
 This repository ensures full reproducibility of our transcriptomic analysis and supports research on how SARS-CoV-2 infection may impact placental biology and pregnancy outcomes.
